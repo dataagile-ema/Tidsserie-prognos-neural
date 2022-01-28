@@ -1,5 +1,8 @@
 # installera neural prophet
 https://github.com/ourownstory/neural_prophet 
+
+https://arxiv.org/pdf/2111.15397.pdf
+
 conda create --name time_series_test_nu python=3.9 
 conda activate time_series_test_nu
 conda install -c anaconda ipykernel 
